@@ -65,6 +65,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vishwas-thangella/vishwas-thangella/output/snake.svg" alt="Snake animation" />
-
 ###
